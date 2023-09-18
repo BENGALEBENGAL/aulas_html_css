@@ -1,0 +1,25 @@
+#titulo {
+    color: cornflowerblue;
+}
+h1 {
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: purple;
+}
+
+h1{
+    color: blue;
+}
+
+.titulos-grandes{
+    font-size: 50px;
+    color: goldenrod;
+
+}
+
+.verde{
+    color: green;
+}
