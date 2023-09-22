@@ -1,0 +1,13 @@
+.caixa_width{
+/*,espessura, tipo e a cor+> width, style , color*/
+/* border-width: 2px; 
+border-style: solid;
+border-color: goldenrod;
+
+/*shorthand => vários valores na mesma propriedade*/
+border:2px solid goldenrod;
+ 
+width:38px;
+}
+
+
