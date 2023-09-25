@@ -10,4 +10,12 @@ border:2px solid goldenrod;
 width:38px;
 }
 
+.imagem_width{
+    width:300px;
+}
+ .caixa_heigth{
+    border:3px dashed #f00;
 
+    height: 100px;
+    width: 100px;
+ }
